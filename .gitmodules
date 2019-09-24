@@ -1,0 +1,3 @@
+[submodule "experiments/2019-09-NYX_ASCENT_CUDA_CDB"]
+	path = experiments/2019-09-NYX_ASCENT_CUDA_CDB
+	url = git@github.com:cinemascienceworkflows/2019-09-NYX_ASCENT_CUDA_CDB.git
