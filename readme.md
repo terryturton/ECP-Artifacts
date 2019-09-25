@@ -5,7 +5,7 @@ Pantheon aims to provide immutable, reproducible, and reusable experiment pipeli
 Early software development efforts have unique build requirements and suffer from inconsistent versioning practices. The focus of Pantheon is to capture the state of a working experiment, to demonstrate a proof of concept. 
 
 ## Software dependencies
-Pantheon establishes reproducible experiment pipelines for target infrastructures. You will need to add Popper v2.3.0+ to your Python environment. Popper is used to execute and manage all Pantheon experiment pipelines. Further dependencies are resolved by the pipeline.
+You will need to configure GitHub to accept SSH keys from your target infrastructure in order to resolve submodule dependencies. You will need to add Popper v2.3.0+ to your Python environment. Popper is used to execute and manage all Pantheon experiment pipelines. Further dependencies are resolved by the pipeline.
 
 ## How to use Pantheon
 1. Clone this repository recursively:
