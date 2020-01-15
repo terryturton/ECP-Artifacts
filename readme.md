@@ -31,7 +31,7 @@ git clone --recursive git@github.com:pantheonscience/ECP-Artifacts.git
 ```
 2. Activate your Pantheon Python environment:
 ```
-source venv/pantheon/bin/activate;
+source ~/venv/pantheon/bin/activate;
 export LC_ALL=en_US.utf8
 ```
 3. Descend into an experiment directory, which will contain `main.workflow`.
