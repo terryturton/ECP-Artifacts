@@ -1,3 +1,6 @@
 [submodule "experiments/2019-09-NYX_ASCENT_CUDA_CDB"]
 	path = artifacts/2019-09-NYX_ASCENT_CUDA_CDB
 	url = git@github.com:cinemascienceworkflows/2019-09-NYX_ASCENT_CUDA_CDB.git
+[submodule "artifacts/LANL_ATDM_ST-STNS01-7"]
+	path = artifacts/LANL_ATDM_ST-STNS01-7
+	url = git@github.com:cinemascienceworkflows/2019-09-NYX_ASCENT_CUDA_CDB.git
