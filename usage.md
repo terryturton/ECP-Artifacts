@@ -23,7 +23,7 @@ export LC_ALL=en_US.utf8
 ## How to use Pantheon
 1. Grab an allocation before running the experiment. The pipeline builds in parallel, which means we aren't allowed to build on Summit login nodes. Example allocation:
 ```
-bsub -W 240 -nnodes 1 -P CSC340 -Is /bin/bash
+bsub -W 60 -nnodes 1 -P CSC340 -Is /bin/bash
 ```
 1. Clone this repository recursively:
 ```
